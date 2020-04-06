@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.table {
+  width: 100vw;
+  height: 100vh;
+  table-layout: fixed;
+}
+.one {
+  background-color: rgb(255, 94, 0);
+  border: 5px solid white;
+}
+.two {
+  background-color: rgb(251, 255, 0);
+  border-right: 5px solid white;
+  border-left: 5px solid white;
+  border-top: 20px solid white;
+  border-bottom: 25px solid white;
+}
+.three {
+  background-color: rgb(3, 3, 180);
+  border-right: 5px solid white;
+  border-left: 5px solid white;
+  border-bottom: 20px solid white;
+}
+.four {
+  background-color: rgb(105, 105, 105);
+  border: 5px solid white;
+}
